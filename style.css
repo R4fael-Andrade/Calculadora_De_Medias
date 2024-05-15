@@ -97,3 +97,18 @@ table td img {
 .reprovado {
     background-color: red;
 }
+
+.title-contact {
+    margin: 16px 0;
+    display: flex;
+    justify-content: center;
+}
+
+#form-contato {
+    margin-top: 16px;
+}
+
+.contatos input {
+    margin: 0 30px;
+}
+
